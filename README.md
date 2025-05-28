@@ -5,7 +5,7 @@ Numerical details of DEIS-Toolbox@LIB are available in Reference [1].
 
 [1] Yuxuan Bai, Qiu-An Huang, Zijie Wu, Juan Wang, Jingzhe Chen, Kai Wu, Jiujun Zhang, A unified framework to decouple charge transfer reactions in the Li-ion battery under dynamic conditions, J. Energy Chem. (2025).
 
-Please refer to Readme for DEIS-Toolbox@LIB.docx for User’s Manual in English Version.
+Please refer to "Readme for DEIS-Toolbox@LIB.docx" for "User’s Manual in English Version".
 
 Author: Yuxuan Bai (yuxuan_bai@shu.edu.cn); Qiu-An Huang (hqahqahqa@163.com).
 
